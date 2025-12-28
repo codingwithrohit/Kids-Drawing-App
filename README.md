@@ -6,6 +6,16 @@ A simple and intuitive drawing application built for kids to unleash their creat
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/Kids_Drawing_App_Demo_Thumbnail.jpeg" width="250" alt="Saved Drawing of Android with background image"/>
+  <img src="screenshots/WhatsApp Image 2025-11-24 at 7.39.56 PM.jpeg" width="250" alt="Saved Drawing of Android without background image"/>
+  <img src="screenshots/WhatsApp Image 2025-11-24 at 7.40.19 PM.jpeg" width="250" alt="Saved Drawing of Deadpool"/>
+</p>
+
+---
+
 ## 📚 About This Project
 This app was built as part of my Android development learning journey, following the Android Development with Kotlin course by Denis Panjuta on Udemy.
 
@@ -128,9 +138,9 @@ Contributions are welcome! If you'd like to improve this project:
 ## 👤 Author
 Rohit Kumar
 
-🔗 LinkedIn: [linkedin.com/in/rohit-kumar-sde](https://www.linkedin.com/in/rohit-kumar-sde/)
-📧 Email: [dev.rohitkumar@gmail.com](mailto:dev.rohitkumar@gmail.com)
-💻 GitHub: [github.com/rohitkumar](https://github.com/rohitkumar)
+- 🔗 LinkedIn: [linkedin.com/in/rohit-kumar-sde](https://www.linkedin.com/in/rohit-kumar-sde/)
+- 📧 Email: [dev.rohitkumar@gmail.com](mailto:dev.rohitkumar@gmail.com)
+- 💻 GitHub: [github.com/rohitkumar](https://github.com/rohitkumar)
 
 
 ## 🙏 Acknowledgment
