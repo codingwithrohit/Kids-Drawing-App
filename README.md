@@ -9,8 +9,8 @@ A simple and intuitive drawing application built for kids to unleash their creat
 ## 📷 Screenshots
 
 <p align="center">
+  <img src="screenshots/KidsDrawingAppUI.jpeg" width="250"  height="410" alt="App Ui"/>
   <img src="screenshots/Kids_Drawing_App_Demo_Thumbnail.jpeg" width="250" alt="Saved Drawing of Android with background image"/>
-  <img src="screenshots/WhatsApp Image 2025-11-24 at 7.39.56 PM.jpeg" width="250" alt="Saved Drawing of Android without background image"/>
   <img src="screenshots/WhatsApp Image 2025-11-24 at 7.40.19 PM.jpeg" width="250" alt="Saved Drawing of Deadpool"/>
 </p>
 
